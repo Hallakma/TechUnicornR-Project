@@ -37,6 +37,7 @@ const ProductGrid = () => {
                 src="https://images.unsplash.com/photo-1582738411706-bfc8e691d1c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
                 height={500}
                 width={500}
+                alt=""
               />
               <div className="mt-4 text-base font-medium text-gray-900 absolute left-[44px] top-[300px] ">
                 <h3 className="text-[48px] pb-4">Dresses</h3>
@@ -51,10 +52,10 @@ const ProductGrid = () => {
               <div className="h-full w-full object-cover object-center group-hover:opacity-75" />
             </div>
           </a>
-          {products.map((product) => (
-            <a className="group relative">
+          {products.map((product, index) => (
+            <a className="group relative" key={index}>
               <div className="aspect-h-1 aspect-w-1  overflow-hidden sm:aspect-h-3 sm:aspect-w-2 max-md:w-full h-[560px] w-[480px] bg-[#E2E2EA] ">
-                <Image src={product.img} height={500} width={500} />
+                <Image src={product.img} height={500} width={500} alt="" />
                 <div className="mt-4 text-base font-medium text-gray-900 absolute left-[44px] top-[300px] "></div>
 
                 <div className="h-full w-full object-cover object-center group-hover:opacity-75" />

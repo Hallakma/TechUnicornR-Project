@@ -49,7 +49,7 @@ const CarouselItem = () => {
       subdesc: "Medium Shoulder bag",
       price: "$1000",
       image:
-        "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
+        "https://plus.unsplash.com/premium_photo-1676465057157-342816cc6594?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80",
     },
     {
       title: "Bags",
@@ -57,7 +57,7 @@ const CarouselItem = () => {
       subdesc: "Medium Shoulder bag",
       price: "$1000",
       image:
-        "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
     },
     {
       title: "Bags",
@@ -65,7 +65,7 @@ const CarouselItem = () => {
       subdesc: "Medium Shoulder bag",
       price: "$1000",
       image:
-        "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
     },
     {
       title: "Bags",
@@ -73,7 +73,7 @@ const CarouselItem = () => {
       subdesc: "Medium Shoulder bag",
       price: "$1000",
       image:
-        "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
+        "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80",
     },
     {
       title: "Bags",
@@ -81,7 +81,7 @@ const CarouselItem = () => {
       subdesc: "Medium Shoulder bag",
       price: "$1000",
       image:
-        "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
+        "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1742&q=80",
     },
     {
       title: "Bags",
@@ -89,7 +89,7 @@ const CarouselItem = () => {
       subdesc: "Medium Shoulder bag",
       price: "$1000",
       image:
-        "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
+        "https://images.unsplash.com/photo-1600857062241-98e5dba7f214?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=996&q=80",
     },
     {
       title: "Bags",
@@ -97,7 +97,7 @@ const CarouselItem = () => {
       subdesc: "Medium Shoulder bag",
       price: "$1000",
       image:
-        "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
+        "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1738&q=80",
     },
     {
       title: "Bags",
@@ -105,7 +105,7 @@ const CarouselItem = () => {
       subdesc: "Medium Shoulder bag",
       price: "$1000",
       image:
-        "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
+        "https://images.unsplash.com/photo-1591561954557-26941169b49e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
     },
     {
       title: "Bags",
@@ -113,7 +113,7 @@ const CarouselItem = () => {
       subdesc: "Medium Shoulder bag",
       price: "$1000",
       image:
-        "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
+        "https://images.unsplash.com/photo-1591561954555-607968c989ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1192&q=80",
     },
     {
       title: "Bags",
@@ -121,7 +121,7 @@ const CarouselItem = () => {
       subdesc: "Medium Shoulder bag",
       price: "$1000",
       image:
-        "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
+        "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1742&q=80",
     },
     {
       title: "Bags",
@@ -129,7 +129,7 @@ const CarouselItem = () => {
       subdesc: "Medium Shoulder bag",
       price: "$1000",
       image:
-        "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
+        "https://images.unsplash.com/photo-1682364853177-b69f92750a96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
     },
 
     // Add more items as needed
@@ -146,7 +146,7 @@ const CarouselItem = () => {
       </div>
       <ReactMultiCarousel
         responsive={responsive}
-        swipeable={false}
+        swipeable={true}
         draggable={false}
         arrows={true}
         showDots={false}
@@ -160,11 +160,8 @@ const CarouselItem = () => {
       >
         {items.map((item, index) => (
           <div key={index} className="p-4 bg-white rounded-lg shadow-md">
-            <button
-              onClick={() => toggleFavorite(index)}
-              className="absolute top-[30px] right-[40px] bg-transparent border-none focus:outline-none"
-            >
-              <div class="w-12 h-12 bg-white rounded-full flex items-center justify-center">
+            <button className="absolute top-[30px] right-[40px] bg-transparent border-none focus:outline-none">
+              <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center">
                 <HeartIcon
                   className={`h-6 w-6 text-[#F86338] ${
                     item.favorite ? "fill-current" : "stroke-current"
@@ -175,6 +172,8 @@ const CarouselItem = () => {
             <Image
               height={100}
               width={100}
+              src={item.image}
+              alt=""
               className="h-[296px] w-full  object-cover bg-[#E2E2EA]"
             />
             <div className="text-center">

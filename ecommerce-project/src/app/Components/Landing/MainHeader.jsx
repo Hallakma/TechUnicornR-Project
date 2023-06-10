@@ -36,6 +36,7 @@ const MainHeader = () => {
                 src={PhoneIcon}
                 className="h-6 w-6 text-black mr-2  "
                 aria-hidden="true"
+                alt=""
               />
               <p className="text-black font-  bold">+022 319 821 967</p>
             </div>
@@ -51,19 +52,19 @@ const MainHeader = () => {
             </button>
           </div>
           <div className="hidden lg:flex lg:gap-x-12">
-            <Image width={166.58} height={32.63} src={logoCompany} />
+            <Image width={166.58} height={32.63} src={logoCompany} alt="" />
           </div>
           <div className=" lg:flex lg:flex-1 lg:justify-end hidden   ">
-            <div class="w-[40px] h-[40px] rounded-full border-2 border-black flex justify-center items-center text-black mr-3">
+            <div className="w-[40px] h-[40px] rounded-full border-2 border-black flex justify-center items-center text-black mr-3">
               <p>Fb</p>
             </div>
-            <div class="w-[40px] h-[40px] rounded-full border-2 border-black flex justify-center items-center text-black mr-3">
+            <div className="w-[40px] h-[40px] rounded-full border-2 border-black flex justify-center items-center text-black mr-3">
               <p>Tw</p>
             </div>
-            <div class="w-[40px] h-[40px] rounded-full border-2 border-black flex justify-center items-center text-black mr-3">
+            <div className="w-[40px] h-[40px] rounded-full border-2 border-black flex justify-center items-center text-black mr-3">
               <p>Ig</p>
             </div>
-            <div class="w-[40px] h-[40px] rounded-full border-2 border-black flex justify-center items-center text-black ">
+            <div className="w-[40px] h-[40px] rounded-full border-2 border-black flex justify-center items-center text-black ">
               <p>Yt</p>
             </div>
           </div>
@@ -93,10 +94,10 @@ const MainHeader = () => {
               className=" h-[24.97px] w-[27.31px] text-black mr-10"
               aria-hidden="true"
             />
-            <div class=" flex justify-center items-center">
-              <div class="relative ">
-                <div class="t-0 absolute left-3 bottom-3">
-                  <p class="flex h-2 w-2 items-center justify-center rounded-full bg-[#F3692E] p-3 text-xs text-white">
+            <div className=" flex justify-center items-center">
+              <div className="relative ">
+                <div className="t-0 absolute left-3 bottom-3">
+                  <p className="flex h-2 w-2 items-center justify-center rounded-full bg-[#F3692E] p-3 text-xs text-white">
                     3
                   </p>
                 </div>
@@ -155,10 +156,10 @@ const MainHeader = () => {
                       className=" h-[24.97px] w-[27.31px] text-black mr-10"
                       aria-hidden="true"
                     />
-                    <div class=" flex justify-center items-center">
-                      <div class="relative ">
-                        <div class="t-0 absolute left-3 bottom-3">
-                          <p class="flex h-2 w-2 items-center justify-center rounded-full bg-[#F3692E] p-3 text-xs text-white">
+                    <div className=" flex justify-center items-center">
+                      <div className="relative ">
+                        <div className="t-0 absolute left-3 bottom-3">
+                          <p className="flex h-2 w-2 items-center justify-center rounded-full bg-[#F3692E] p-3 text-xs text-white">
                             3
                           </p>
                         </div>

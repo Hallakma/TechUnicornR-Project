@@ -1,5 +1,6 @@
 import { ChevronRightIcon } from "@heroicons/react/20/solid";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Example() {
   return (
@@ -17,15 +18,15 @@ export default function Example() {
                   for your company.
                 </p>
                 <div className="mt-10 flex items-center gap-x-6 ">
-                  <a
-                    href="#"
-                    className="w-[120px] h-[56px] text-[16px] items-center justify-center rounded-md bg-[#F86338] px-3.5 py-2.5 flex text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-                  >
-                    Shop
-                    <span>
-                      <ChevronRightIcon className="h-6 w-6" />
-                    </span>
-                  </a>
+                  <Link href="/shop">
+                    {" "}
+                    <p className="w-[120px] h-[56px] text-[16px] items-center justify-center rounded-md bg-[#F86338] px-3.5 py-2.5 flex text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
+                      Shop
+                      <span>
+                        <ChevronRightIcon className="h-6 w-6" />
+                      </span>
+                    </p>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -38,6 +39,7 @@ export default function Example() {
                   src="https://images.unsplash.com/photo-1564485377539-4af72d1f6a2f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
                   height={500}
                   width={500}
+                  alt=""
                 />
               </div>
               <div className="bg-[#E2E2EA] w-[504px] h-[619px] absolute left-[520px]  ">
@@ -45,6 +47,7 @@ export default function Example() {
                   src="https://images.unsplash.com/photo-1562572159-4efc207f5aff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
                   height={500}
                   width={500}
+                  alt=""
                 />
               </div>
             </div>
